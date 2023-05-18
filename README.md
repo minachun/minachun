@@ -1,6 +1,6 @@
 minachun / J.Minami
 
-[![minachun's GitHub Banner](./assets/banner.png)]()
+[![minachun's GitHub Banner](./banner.png)]()
 
 <!--
 **minachun/minachun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
